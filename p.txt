@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E488-22C0
+
+ Directory of C:\Users\Raviraj\Desktop\javaprogram
+
+01/03/2020  07:26 PM    <DIR>          .
+01/03/2020  07:26 PM    <DIR>          ..
+01/03/2020  06:45 PM               440 Ex_evenno.class
+29/02/2020  11:37 PM               177 Ex_evenno.java
+01/03/2020  07:26 PM               456 Movies (E) - Shortcut.lnk
+01/03/2020  07:26 PM                 0 p.txt
+29/02/2020  11:31 PM               345 Test.java
+               5 File(s)          1,418 bytes
+               2 Dir(s)  66,483,036,160 bytes free
